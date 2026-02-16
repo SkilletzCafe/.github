@@ -38,11 +38,16 @@ Nestled in the historic **Niles district**—the birthplace of the American film
 
 ## 🧋 Tea-Rek'z — Our Boba Shop Next Door
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkilletzCafe/.github/master/profile/tearekz_logo.png" alt="Tea-Rek'z Logo" width="200">
+</p>
+
 In August 2025, we expanded our family with **Tea-Rek'z**, serving dino-mite boba tea and refreshing drinks right next door. Same warm hospitality, new delicious offerings!
 
 <p align="center">
-  <a href="https://tearekz.cafe">tearekz.cafe</a> •
-  <a href="https://www.instagram.com/tearekz">@tearekz</a>
+  <a href="https://tearekz.cafe"><img src="https://img.shields.io/badge/Website-tearekz.cafe-00C853?style=for-the-badge" alt="Website"></a>
+  <a href="https://www.instagram.com/tearekz"><img src="https://img.shields.io/badge/Instagram-@tearekz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.doordash.com/store/tea-rek'z-fremont-36102661/"><img src="https://img.shields.io/badge/DoorDash-Order_Now-FF3008?style=for-the-badge&logo=doordash&logoColor=white" alt="DoorDash"></a>
 </p>
 
 ---
