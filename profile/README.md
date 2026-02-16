@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SkilletzCafe/.github/main/profile/banner.png" alt="Skillet'z Cafe" width="100%">
+  <img src="https://raw.githubusercontent.com/SkilletzCafe/.github/master/profile/banner.png" alt="Skillet'z Cafe" width="100%">
 </p>
 
 <h3 align="center">🍳 Where New Age Technology Meets Old World Cooking & Small Town Charm 🍳</h3>
