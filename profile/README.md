@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkilletzCafe/.github/main/profile/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkilletzCafe/.github/main/profile/banner-light.png">
-  <img alt="Skillet'z Cafe - Where New Age Technology Meets Old World Cooking" src="https://raw.githubusercontent.com/SkilletzCafe/.github/main/profile/banner-light.png" width="100%">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkilletzCafe/.github/main/profile/banner.png" alt="Skillet'z Cafe" width="100%">
+</p>
 
 <h3 align="center">🍳 Where New Age Technology Meets Old World Cooking & Small Town Charm 🍳</h3>
 
